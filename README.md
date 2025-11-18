@@ -1,4 +1,4 @@
-### This Readme.md is crafted by Github Copilot… because I'm not a big fan of writing markdown.
+###### This Readme.md is crafted by Github Copilot… because I'm not a big fan of writing markdown.
 
 # Parallel vs Sequential Merge Sort Benchmark
 
