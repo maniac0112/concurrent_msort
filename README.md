@@ -1,3 +1,5 @@
+#This Readme.md is crafted by Github Copilot… because I'm not a big fan of writing markdown.
+
 # Parallel vs Sequential Merge Sort Benchmark
 
 This project benchmarks a **parallel merge sort** using `std::thread` against a standard **sequential merge sort**.  
